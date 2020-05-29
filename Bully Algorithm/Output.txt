@@ -1,0 +1,60 @@
+Microsoft Windows [Version 10.0.18363.836]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\subha>cd C:\Java\jdk1.8.0_201\bin\CL-IX\Bully Algorithm
+
+C:\Java\jdk1.8.0_201\bin\CL-IX\Bully Algorithm>javac Bully.java
+
+C:\Java\jdk1.8.0_201\bin\CL-IX\Bully Algorithm>java Bully
+5 active process are:
+Process up  = p1 p2 p3 p4 p5
+Process 5 is coordinator
+.........
+1 up a process.
+2.down a process
+3 send a message
+4.Exit
+2
+bring down any process.
+5
+.........
+1 up a process.
+2.down a process
+3 send a message
+4.Exit
+3
+which process will send message
+5
+Prccess5is down
+.........
+1 up a process.
+2.down a process
+3 send a message
+4.Exit
+1
+bring proces up
+2
+process2is already up
+.........
+1 up a process.
+2.down a process
+3 send a message
+4.Exit
+1
+bring proces up
+5
+process 5 is co-ordinator
+.........
+1 up a process.
+2.down a process
+3 send a message
+4.Exit
+3
+which process will send message
+5
+0K
+.........
+1 up a process.
+2.down a process
+3 send a message
+4.Exit

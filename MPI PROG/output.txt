@@ -1,0 +1,24 @@
+
+C:\Java\jdk1.8.0_201\bin\CL-IX\MPI PROG>javac -cp C:\Java\jdk1.8.0_201\bin\mpj-v0_44\lib\mpj.jar MPI_Scatter_Gather_Demo.java
+
+C:\Java\jdk1.8.0_201\bin\CL-IX\MPI PROG>set MPJ_HOME=C:\Java\jdk1.8.0_201\bin\mpj-v0_44
+
+C:\Java\jdk1.8.0_201\bin\CL-IX\MPI PROG>C:\Java\jdk1.8.0_201\bin\mpj-v0_44\bin\mpjrun.bat -np 4 MPI_Scatter_Gather_Demo
+MPJ Express (0.44) is started in the multicore configuration
+size is4
+size is4
+size is4
+size is4
+Process 0 recieved num =0
+Process 0 recieved num =1
+Process 3 recieved num =6
+Process 3 recieved num =7
+Process 1 recieved num =2
+Process 1 recieved num =3
+Process 2 recieved num =4
+Process 2 recieved num =5
+0.5
+2.5
+4.5
+6.5
+Result is :3.5

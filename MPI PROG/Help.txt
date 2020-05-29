@@ -1,0 +1,7 @@
+cd C:\Java\jdk1.8.0_201\bin\MPI PROG
+
+javac -cp C:\Java\jdk1.8.0_201\bin\mpj-v0_44\lib\mpj.jar MPI_Scatter_Gather_Demo.java
+
+set MPJ_HOME=C:\Java\jdk1.8.0_201\bin\mpj-v0_44
+
+C:\Java\jdk1.8.0_201\bin\mpj-v0_44\bin\mpjrun.bat -np 4 MPI_Scatter_Gather_Demo
