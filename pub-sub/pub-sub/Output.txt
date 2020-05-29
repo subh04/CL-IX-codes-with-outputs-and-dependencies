@@ -1,0 +1,9 @@
+>Publisher
+ INFO | Successfully connected to tcp://localhost:61616
+>Subscriber
+ INFO | Successfully connected to tcp://localhost:61616
+ INFO | Successfully connected to tcp://localhost:61616
+client2: received message with text='{}' : From Publisher
+greeting={}  : Hello From Publisher!
+client3: received message with text='{}' : From Publisher
+greeting={}  : Hello From Publisher!
